@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/harsh/Downloads/MLOps_Project/mlruns/408795038808776514/238286a672e641cd8aa0767c6cf2629f/artifacts
+deleted_time: 1749114071898
+end_time: 1749109007892
+entry_point_name: ''
+experiment_id: '408795038808776514'
+lifecycle_stage: deleted
+run_id: 238286a672e641cd8aa0767c6cf2629f
+run_name: RandomForest
+run_uuid: 238286a672e641cd8aa0767c6cf2629f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749109004985
+status: 3
+tags: []
+user_id: harsh

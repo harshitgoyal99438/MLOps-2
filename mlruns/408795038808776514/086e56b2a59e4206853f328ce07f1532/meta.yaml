@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/harsh/Downloads/MLOps_Project/mlruns/408795038808776514/086e56b2a59e4206853f328ce07f1532/artifacts
+deleted_time: 1749114071746
+end_time: 1749109166232
+entry_point_name: ''
+experiment_id: '408795038808776514'
+lifecycle_stage: deleted
+run_id: 086e56b2a59e4206853f328ce07f1532
+run_name: GradientBoosting
+run_uuid: 086e56b2a59e4206853f328ce07f1532
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749109162933
+status: 4
+tags: []
+user_id: harsh
